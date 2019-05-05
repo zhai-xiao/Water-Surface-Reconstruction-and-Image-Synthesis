@@ -1,10 +1,10 @@
-###Dataset:
+<b>Dataset:</b>
 
 <img src='imgs/input_00001_1_0.64_0.07_0.83_0.14_0.20.jpg' align="center" width="50%">
 <br>
   -The dataset consists of a series of images like the one shown above. Some examples are provided in the dataset folder. For more data, please contact the author.
 
-###Train a model:
+<b>Train a model:</b>
 
   -Running train.py 
 
@@ -12,7 +12,7 @@
 
 A trained model is provided in ./checkpoints/result,named latest_net_G_A.pth and latest_net_G_B.pth.
 
-###Test the model:
+<b>Test the model:</b>
 
   -Test the full net by running test_full_net.py on the data from ./dataset/test. The results are shown below.
 
