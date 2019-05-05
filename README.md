@@ -1,4 +1,5 @@
-<img src='imgs/input_00001_1_0.64_0.07_0.83_0.14_0.20.jpg' align="right" width=384>
+<img src='imgs/input_00001_1_0.64_0.07_0.83_0.14_0.20.jpg' align="center" width=384>
+<br><br><br>
 The dataset consists of a series of images like the one shown above. Some examples are provided in the dataset folder. For more data, please contact the author.
 
 Train a model by running train.py 
